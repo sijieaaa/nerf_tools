@@ -1,4 +1,4 @@
-''nerf_tools''
+# nerf_tools
 
 A combination of both LLFF and torch-ngp for better NeRF processing.
 
