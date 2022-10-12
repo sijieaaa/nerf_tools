@@ -8,7 +8,7 @@ A combination of both LLFF and torch-ngp for better NeRF processing.
 
 
 Usage
-
+data/fern/images/1.png 2.png ...
 ```
 LLFF: 
 python imgs2poses.py data/fern
